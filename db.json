@@ -1,10 +1,10 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
       "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
+      "image": "https://media.lasvegasmagazine.com/media/img/photos/2017/08/23/Nosh_Gordon_Ramsay_Burger_LD_t1024.jpg?b3f067808e872500b33dd7ef4ee517933144b05a"
     },
     {
       "id": 2,
@@ -40,13 +40,13 @@
       "id": 7,
       "name": "HamBougie",
       "description": "Not Bad, But Bougie",
-      "image": "https://timedotcom.files.wordpress.com/2016/05/160528_gal_burger_blingburger.jpg"
+      "image": "https://cdn.vox-cdn.com/thumbor/i67DFbHslmNAYTACp5ZjWdKbjz8=/0x0:1600x1270/1200x900/filters:focal(672x507:928x763)/cdn.vox-cdn.com/uploads/chorus_image/image/58695835/tgm.0.24.jpg"
     },
     {
       "id": 8,
       "name": "Green Eggs and Hamburger",
       "description": "Cooked by Sam",
-      "image": "https://stupiddope.com/wp-content/uploads/2016/05/mcdonalds-green-angry-birds-burger-01.jpg"
+      "image": "https://www.biggreeneggsandhamburgers.com/assets/EE53CED9-905F-491E-A3E4-F0F04A5DD51B.jpeg"
     },
     {
       "id": 9,
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Krabby Patty",
+      "description": "burgerrrs",
+      "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d4/Krabby_Patty_transparentpng.png/revision/latest?cb=20170310181007",
+      "id": 16
+    },
+    {
+      "name": "Krabby Patty2",
+      "description": "ehh",
+      "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d4/Krabby_Patty_transparentpng.png/revision/latest?cb=20170310181007",
+      "id": 17
     }
   ]
 }
